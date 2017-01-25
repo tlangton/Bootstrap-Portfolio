@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-Week 2 homework 2 of 2
+# Responsive-Portfolio
+Week 2 homework 1 of 2
